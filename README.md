@@ -1,2 +1,4 @@
 # foodie_web
-you see mt foodie web project
+you see my foodie web project  
+only for try
+
